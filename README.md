@@ -1,3 +1,3 @@
 # Scraper for Steam Store
 
-Capstone project for scrapping data on every steam game
+Capstone project for web scrapping data on every steam game
