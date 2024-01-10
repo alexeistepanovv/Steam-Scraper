@@ -3,7 +3,6 @@
 ## Project Description
 This Steam scraper is a capstone project focused on web scraping to gather comprehensive data on every game available on the Steam platform. It's designed to collect valuable information, which can be used for various analytical purposes, making it an ideal tool for data enthusiasts and researchers interested in the gaming industry.
 
-## Technology Stack
 The scraper is built using Python and relies on several key libraries including:
 - `requests`: For making HTTP requests to the Steam website.
 - `pandas`: For data manipulation and analysis.
