@@ -9,8 +9,6 @@ The scraper is built using Python and relies on several key libraries including:
 - `pandas`: For data manipulation and analysis.
 - `numpy`: For numerical operations.
 
-Additional libraries and tools used in this project are detailed within the code documentation.
-
 ## File Descriptions
 - `module_scraper.py`: Core module containing the functions for web scraping, data handling, and making HTTP requests.
 - `script_scraper_steam.py`: Script for scraping data from Steam using functions from `module_scraper.py`.
@@ -18,4 +16,4 @@ Additional libraries and tools used in this project are detailed within the code
 - `settings.py`: Contains configuration settings for the scraper, such as API endpoints and parameters.
 
 ## Acknowledgments
-This project is inspired by and based on the work of [Nik Davis](https://nik-davis.github.io/). His contributions to the field of web scraping and data analysis have been invaluable in shaping the approach and methodology of this scraper.
+This project is inspired by and based on the work of [Nik Davis](https://nik-davis.github.io/). 
